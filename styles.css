@@ -1,0 +1,92 @@
+.header {
+    background-image: url("https://data.whicdn.com/images/244265072/superthumb.jpg?t=1465719689");
+    text-align: center;
+    border: solid #f4c404;
+}
+h1 {
+    background-color: white;
+    width: 160px;
+    font-size: 60px;
+    margin-left: 46%;
+    font-family: 'Sirin Stencil', cursive;
+    color: #f4c404;
+}
+p {
+    background-color: white;
+    width: 500px;
+    margin-left: 35%;
+    font-family: 'Bangers', cursive;
+    color: red;
+}
+
+.donate {
+    background: #f4c404;
+    text-align: center;
+    font-family: 'Sirin Stencil', cursive;
+    background-image: url("https://media.giphy.com/media/Z2pZfL0YPC9sk/giphy.gif");
+}
+.button {
+    width: 140px;
+}
+
+h2 {
+    color: white;
+    background-color: red;
+}
+.h2:hover {
+    background-color: #f4c404;
+}
+.pics {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f4c404;
+    margin-top: 25px;
+}
+.pics:hover {
+    background-image: url("http://rs20.pbsrc.com/albums/b217/pkalldaway2007/backgrounds/movingconfetti.gif~c200");
+}
+.grant {
+    margin: 25px;
+    width: 200px;
+    height: 200px;
+}
+.friends {
+    display: flex;
+    justify-content: space-between;
+}
+.ppl {
+    margin: 25px;
+    width: 200px;
+    height: 200px;
+}
+.caption {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    font-family: 'Bangers', cursive;
+    color: white;
+    background-color: red;
+}
+.caption:hover {
+    background-color: #f4c404;
+}
+.vote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+.vote:hover {
+    background-color: black;
+}
+.votepic {
+    width: 200px;
+    margin: 15px;
+}
+body {
+    background-color: #cfcfd1;
+}
+body:hover {
+    background-color: #fffeea;
+}
